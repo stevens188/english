@@ -1,75 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://arquidis.com.co/</loc>
-  <lastmod>2020-05-10T15:43:34+00:00</lastmod>
+  <lastmod>2020-08-15T08:43:21+00:00</lastmod>
   <priority>1.00</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://arquidis.com.co/index.html</loc>
-  <lastmod>2020-05-10T15:43:34+00:00</lastmod>
+  <lastmod>2020-08-15T08:43:21+00:00</lastmod>
   <priority>0.80</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://arquidis.com.co/about.html</loc>
-  <lastmod>2020-05-10T12:16:00+00:00</lastmod>
+  <lastmod>2020-08-15T08:41:49+00:00</lastmod>
   <priority>0.80</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
   <loc>https://arquidis.com.co/work.html</loc>
-  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
+  <lastmod>2020-08-15T08:43:23+00:00</lastmod>
   <priority>0.80</priority>
-  <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>https://arquidis.com.co/amp.html</loc>
-  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
-  <priority>0.90</priority>
-  <changefreq>weekly</changefreq>
+  <loc>https://arquidis.com.co/point.html</loc>
+  <lastmod>2020-08-15T08:43:21+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://arquidis.com.co/point-amp.html</loc>
-  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
-  <priority>0.80</priority>
-  <changefreq>weekly</changefreq>
+  <loc>https://arquidis.com.co/render.html</loc>
+  <lastmod>2020-08-15T08:43:21+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
-<!-- Páginas en español -->
-<url>
-  <loc>https://arquidis.com.co/inicio.html</loc>
-  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
-  <priority>0.80</priority>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>https://arquidis.com.co/somos.html</loc>
-  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
-  <priority>0.80</priority>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>https://arquidis.com.co/puntos.html</loc>
-  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
-  <priority>0.80</priority>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>https://arquidis.com.co/funciona.html</loc>
-  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
-  <priority>0.80</priority>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>https://arquidis.com.co/es-amp.html</loc>
-  <lastmod>2020-05-10T12:16:04+00:00</lastmod>
-  <priority>0.90</priority>
-  <changefreq>weekly</changefreq>
-</url>
+
+
 </urlset>
