@@ -9,33 +9,33 @@
 
 <url>
   <loc>https://arquidis.com.co/</loc>
-  <lastmod>2020-08-15T08:43:21+00:00</lastmod>
+  <lastmod>2020-09-07T02:02:48+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://arquidis.com.co/index.html</loc>
-  <lastmod>2020-08-15T08:43:21+00:00</lastmod>
+  <lastmod>2020-09-07T02:02:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://arquidis.com.co/about.html</loc>
-  <lastmod>2020-08-15T08:41:49+00:00</lastmod>
+  <lastmod>2020-09-07T02:02:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://arquidis.com.co/work.html</loc>
-  <lastmod>2020-08-15T08:43:23+00:00</lastmod>
+  <lastmod>2020-09-07T02:02:48+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://arquidis.com.co/point.html</loc>
-  <lastmod>2020-08-15T08:43:21+00:00</lastmod>
+  <loc>https://arquidis.com.co/render.html</loc>
+  <lastmod>2020-09-07T02:02:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://arquidis.com.co/render.html</loc>
-  <lastmod>2020-08-15T08:43:21+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://arquidis.com.co/point.html</loc>
+  <lastmod>2020-09-07T02:02:48+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
